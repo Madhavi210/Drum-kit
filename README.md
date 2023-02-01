@@ -2,4 +2,4 @@
 
 Preview 
 
-https://github.com/Madhavi210/Drum-kit
+https://madhavi210.github.io/Drum-kit/
